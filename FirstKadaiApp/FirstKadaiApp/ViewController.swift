@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Lessen4_6
+//  FirstKadaiApp
 //
-//  Created by KUNI K on 2019/03/12.
+//  Created by KUNI K on 2019/03/13.
 //  Copyright © 2019 QQ201901. All rights reserved.
 //
 
